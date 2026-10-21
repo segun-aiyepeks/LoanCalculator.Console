@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LoanCalculator.Console/LoanCalculator.Console.csproj" />
+  <Project Path="LoanCalculator.Core/LoanCalculator.Core.csproj" Id="62ab7007-4d96-4f31-bc4f-06865d421963" />
+  <Project Path="LoanCalculator.Tests/LoanCalculator.Tests.csproj" Id="05cfa179-f8a5-4051-9515-8113785c2a1c" />
+</Solution>
