@@ -9,4 +9,5 @@ namespace LoanCalculator.Core
             return Math.Round(interest, 2, MidpointRounding.AwayFromZero);
         }
     }
+
 }
